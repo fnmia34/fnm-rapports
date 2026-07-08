@@ -369,7 +369,7 @@ Sur la base de 1 rapport(s) précédent(s), le chiffre d'affaires moyen s'établ
 <div style="color:#ffd700;font-size:26px;font-weight:700;letter-spacing:2px;font-family:Georgia,serif;">FNM.ia</div>
 <div style="width:80px;height:2px;background-color:#ffd700;margin:14px auto;"></div>
 <div style="color:rgba(255,255,255,0.8);font-size:12px;margin-top:8px;">Rapport généré automatiquement par l'agent FNM.ia</div>
-<div style="color:rgba(255,255,255,0.6);font-size:11px;margin-top:6px;">8 juillet 2026 à 00:17 — Réf. FNM-202607-FTB8J8</div>
+<div style="color:rgba(255,255,255,0.6);font-size:11px;margin-top:6px;">8 juillet 2026 à 00:39 — Réf. FNM-202607-1JZC5V</div>
 </td></tr></table>
 </td></tr>
 
